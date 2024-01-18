@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
 
-int infinite_sorted(int arr[] , int n , int key)
+int infinite_sorted(int arr[] ,  int key)
 {
     int s=0;
-    int e=n-1;
+    int e=1;
     int ans=-1;
    
     while (s<=e)
