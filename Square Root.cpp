@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//optimized approach 
 class Solution {
   public:
     int floorSqrt(int n) {
